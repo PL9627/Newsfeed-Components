@@ -153,7 +153,7 @@ function articleComponent(title, date, firstParagraph, secondParagraph, thirdPar
   });
 
   article.appendChild(articleTitle);
-  article.appendChild(date);
+  article.appendChild(articleDate);
   article.appendChild(p1);
   article.appendChild(p2);
   article.appendChild(p3);
